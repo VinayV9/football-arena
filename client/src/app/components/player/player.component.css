@@ -1,0 +1,32 @@
+h1{
+    text-align: center;
+    font-weight: 150;
+    padding:10px;
+    color:snow;
+    padding-top:30px; 
+}
+
+.item{
+    padding:20px;
+    height:auto;
+    margin: 20px;
+}
+
+.title{
+    text-align: center;
+    padding:10px;
+}
+
+  
+.avtar{
+    display: flex;
+    width:200px;
+    height:200px;
+    border-radius:50%;
+    margin:0 auto; 
+}
+
+img{
+    width:100%;
+    height:100%;
+}

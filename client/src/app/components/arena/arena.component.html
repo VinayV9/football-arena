@@ -1,0 +1,10 @@
+<div class="box" >
+  <mat-card class="item" *ngFor="let player of players; let i = index" (click)="displayPlayer(player)">
+      <div class="avtar">
+        <img [src]="getSantizeUrl('data:image/png;base64,'+player.Avtar)" alt="player">
+      </div>
+      <mat-card-title class="title">
+          {{player.Name}}
+      </mat-card-title>
+  </mat-card>
+</div>

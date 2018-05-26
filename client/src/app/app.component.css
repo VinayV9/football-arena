@@ -1,0 +1,10 @@
+header{
+    width:100%;
+    position:fixed;
+    height: 10vh;
+    z-index: 1;
+    top:0;
+}
+main{
+    margin-top:10vh;
+}

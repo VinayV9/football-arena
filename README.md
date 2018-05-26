@@ -2,6 +2,26 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.0.0.
 
+TODO: pagination yet to do
+
+## local Development
+
+for backend 
+
+npm install
+
+for angular 
+
+cd client 
+
+npm install 
+
+cd ..
+
+node server
+
+NOTE please change mongodb username password in config file
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
